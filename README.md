@@ -1,4 +1,6 @@
-﻿# BepInEx Faster Load AssetBundles - Proton/Wine Patch
+# Already Fixed on original mod side
+ 
+ # BepInEx Faster Load AssetBundles - Proton/Wine Patch
 
 This is a compatibility patch of the popular [BepInEx Faster Load AssetBundles](https://thunderstore.io/c/lethal-company/p/DiFFoZ/BepInEx_Faster_Load_AssetBundles_Patcher/) patcher. It resolves a critical drive space detection issue that occurs under Linux, Proton, Wine, and Steam Deck environments.
 
